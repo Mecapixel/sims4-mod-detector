@@ -114,4 +114,4 @@ This tool was built to fill that gap: a local, offline diagnostic suite that rea
 
 ---
 
-*Built by Meca Dismukes · [github.com/mecadismukes](https://github.com/mecadismukes)*
+*Built by Meca Dismukes · [github.com/Mecapixel](https://github.com/Mecapixel)*
